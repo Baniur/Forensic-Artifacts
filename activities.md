@@ -7,7 +7,7 @@
 <h2 id="activitiescache">ActivitiesCache.db</h2>
 
 <ul>
-<li>%systemdrive%\Users\USER\AppData\Local\ConnectedDevicesPlatform\<strong>DIRECTORY</strong>\ActivitiesCache.db</li>
+<li>%USERPROFILE%\AppData\Local\ConnectedDevicesPlatform\<strong>DIRECTORY</strong>\ActivitiesCache.db</li>
 </ul>
 
 <strong>DIRECTORY</strong>:
