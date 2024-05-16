@@ -3,7 +3,7 @@
 <ul>
 <li><a href="#anydesk">AnyDesk</a></li>
 <li>Google Chrome</li>
-<li>Microsoft Edge (Chromium)</li>
+<li><a href="#microsoft-edge-chromium">Microsoft Edge (Chromium)</a></li>
 <li>Mozilla Firefox</li>
 <li><a href="#notepad-plus-plus">Notepad++</a></li>
 <li><a href="#remote-desktop">Remote Desktop</a></li>
@@ -18,16 +18,24 @@
 <h2 id="anydesk">AnyDesk</h2>
 
 <ul>
-<li>%systemdrive%\Users\USER\AppData\Roaming\AnyDesk\ad.trace</li>
+<li>%USERPROFILE%\AppData\Roaming\AnyDesk\ad.trace</li>
 </ul>
 
 How to open: <strong>text editor</strong>
 
+<h2 id="microsoft-edge-chromium">Microsoft Edge (Chromium)</h2>
+
+<ul>
+<li>%USERPROFILE%\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup<strong><i>YYYYMMDD</i></strong>_dbh<strong><i>hhmmss</i></strong>\DatastoreBackup\spartan.edb</li>
+</ul>
+
+How to open: <strong>ESEDatabaseView (Nirsoft)</strong>
+
 <h2 id="notepad-plus-plus">Notepad++</h2>
 
 <ul>
-<li>%systemdrive%\Users\USER\AppData\Roaming\Notepad++\session.xml</li>
-<li>%systemdrive%\Users\USER\AppData\Roaming\Notepad++\backup</li>
+<li>%USERPROFILE%\AppData\Roaming\Notepad++\session.xml</li>
+<li>%USERPROFILE%\AppData\Roaming\Notepad++\backup</li>
 </ul>
 
 How to open: <strong>text editor</strong>
@@ -35,8 +43,8 @@ How to open: <strong>text editor</strong>
 <h2 id="remote-desktop">Remote Desktop</h2>
 
 <ul>
-<li>%systemdrive%\Users\USER\AppData\Local\Microsoft\Terminal Server Client\Cache\bcache*.bmc</li>
-<li>%systemdrive%\Users\USER\AppData\Local\Microsoft\Terminal Server Client\Cache\cache????.bin</li>
+<li>%USERPROFILE%\AppData\Local\Microsoft\Terminal Server Client\Cache\bcache*.bmc</li>
+<li>%USERPROFILE%\AppData\Local\Microsoft\Terminal Server Client\Cache\cache????.bin</li>
 </ul>
 
 How to open: <strong>bmc-tools</strong> and <strong>RdpCacheStitcher</strong>
@@ -44,13 +52,13 @@ How to open: <strong>bmc-tools</strong> and <strong>RdpCacheStitcher</strong>
 <h2 id="stickynotes">Sticky Notes</h2>
 
 <ul>
-<li>%systemdrive%\Users\USER\AppData\Local\Packages\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe\</li>
+<li>%USERPROFILE%\AppData\Local\Packages\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe\</li>
 </ul>
 
 <h2 id="sublime-text">Sublime Text</h2>
 
 <ul>
-<li>%systemdrive%\Users\USER\AppData\Roaming\Sublime Text 3\Local\Session.sublime_session</li>
+<li>%USERPROFILE%\AppData\Roaming\Sublime Text 3\Local\Session.sublime_session</li>
 </ul>
 
 How to open: <strong>text editor</strong>
@@ -58,7 +66,7 @@ How to open: <strong>text editor</strong>
 <h2 id="teamviewer">TeamViewer</h2>
 
 <ul>
-<li>%systemdrive%\Users\USER\AppData\Roaming\TeamViewer\Connections.txt</li>
+<li>%USERPROFILE%\AppData\Roaming\TeamViewer\Connections.txt</li>
 <li>%systemdrive%\Program Files\TeamViewer\Connections_incoming.txt</li>
 <li>%systemdrive%\Program Files\TeamViewer\TeamViewerXX_Logfile.log (XX - version)</li>
 <li>%systemdrive%\Program Files (x86)\TeamViewer\Connections_incoming.txt</li>
@@ -70,7 +78,7 @@ How to open: <strong>text editor</strong>
 <h2 id="microsoft-windows-10-11-notifications">Microsoft Windows 10/11 Notifications</h2>
 
 <ul>
-<li>%systemdrive%\Users\USER\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db</li>
+<li>%USERPROFILE%\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db</li>
 </ul>
 
 How to open: <strong>DB Browser for SQLite</strong>, <strong>SQLiteStudio</strong>
