@@ -26,7 +26,7 @@
   <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run</ol>
   <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce</ol>
   <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServicesOnce</ol>
-  <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServicesol</ol>
+  <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServices</ol>
 </ul>
 
 <h2 id="HKLM_SYSTEM">SYSTEM (HKEY_LOCAL_MACHINE\SYSTEM)</h2>
