@@ -1,11 +1,11 @@
-# Forensic artifacts
+# 🕵️ Forensic artifacts
 <ul>
 <li><a href="https://github.com/Baniur/Forensic-Artifacts/blob/main/activities.md">Activities</a></li>
 <li><a href="https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md">Applications</a></li>
 <li><a href="https://github.com/Baniur/Forensic-Artifacts/blob/main/registry.md">Registry</a></li>
 </ul>
 
-# Articles
+# 📰 Articles
 <ul>
   <li><a href="https://www.cybertriage.com/blog/windows-scheduled-tasks-for-dfir-investigations/" title="Cyber Triage - Windows Scheduled Tasks for DFIR Investigations">Windows Scheduled Tasks for DFIR Investigations</a> (Cyber Triage)</li>
   <li><a href="https://www.cybertriage.com/blog/ntuser-dat-forensics-analysis-2025/" title="Cyber Triage - NTUSER.DAT Forensics Analysis">NTUSER.DAT Forensics Analysis</a> (Cyber Triage)</li>
