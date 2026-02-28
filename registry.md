@@ -9,9 +9,25 @@
 
 <h2 id="HKCU">HKEY_CURRENT_USER (HKCU) - NTUSER.DAT</h2>
 
+<ul>
+<li>Possible Persistence</li>
+  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run</ol>
+  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce</ol>
+  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce</ol>
+  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServices</ol>
+</ul>
+
 <h2 id="HKLM_SAM">SAM (HKEY_LOCAL_MACHINE\SAM)</h2>
 
 <h2 id="HKLM_SOFTWARE">SOFTWARE (HKEY_LOCAL_MACHINE\SOFTWARE)</h2>
+
+<ul>
+<li>Possible Persistence</li>
+  <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run</ol>
+  <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce</ol>
+  <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServicesOnce</ol>
+  <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServicesol</ol>
+</ul>
 
 <h2 id="HKLM_SYSTEM">SYSTEM (HKEY_LOCAL_MACHINE\SYSTEM)</h2>
 
