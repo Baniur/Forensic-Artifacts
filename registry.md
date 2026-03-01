@@ -10,11 +10,26 @@
 <h2 id="HKCU">HKEY_CURRENT_USER (HKCU) - NTUSER.DAT</h2>
 
 <ul>
-<li>Possible Persistence</li>
+<li>Possible Persistence:</li>
   <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run</ol>
   <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce</ol>
   <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce</ol>
   <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServices</ol>
+</ul>
+
+<ul>
+  <li>ClickFix commands:</li>
+  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU</ol>
+</ul>
+
+<ul>
+  <li>FileFix commands:</li>
+  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths</ol>
+</ul>
+
+<ul>
+  <li>UserAssist (execution for .lnk files or PE files that have a GUI component):</li>
+  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist</ol>
 </ul>
 
 <h2 id="HKLM_SAM">SAM (HKEY_LOCAL_MACHINE\SAM)</h2>
@@ -22,7 +37,7 @@
 <h2 id="HKLM_SOFTWARE">SOFTWARE (HKEY_LOCAL_MACHINE\SOFTWARE)</h2>
 
 <ul>
-<li>Possible Persistence</li>
+<li>Possible Persistence:</li>
   <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run</ol>
   <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce</ol>
   <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServicesOnce</ol>
@@ -32,22 +47,22 @@
 <h2 id="HKLM_SYSTEM">SYSTEM (HKEY_LOCAL_MACHINE\SYSTEM)</h2>
 
 <ul>
-<li>ComputerName</li>
+<li>ComputerName:</li>
 <ol>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\ComputerName\ComputerName</ol>
 </ul>
 
 <ul>
-<li>Network Interfaces</li>
+<li>Network Interfaces:</li>
 <ol>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces</ol>
 <ol>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters\Interfaces</ol>
 </ul>
 
 <ul>
-<li>ShimCache</li>
+<li>ShimCache:</li>
 <ol>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\AppCompatCache</ol>
 </ul>
 
 <ul>
-<li>Timezone</li>
+<li>Timezone:</li>
 <ol>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation\TimeZoneKeyName</ol>
 </ul>
