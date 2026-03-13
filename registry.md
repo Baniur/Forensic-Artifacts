@@ -11,25 +11,35 @@
 
 <ul>
 <li>Possible Persistence:</li>
-  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run</ol>
-  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce</ol>
-  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce</ol>
-  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServices</ol>
+  <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run</code></ol>
+  <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce</code></ol>
+  <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce</code></ol>
+  <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunServices</code></ol>
 </ul>
 
 <ul>
-  <li>ClickFix commands:</li>
-  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU</ol>
+  <li>History of commands entered into the Run dialog box</li>
+  <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU</code></ol>
 </ul>
 
 <ul>
-  <li>FileFix commands:</li>
-  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths</ol>
+  <li>History of searches performed using the Windows File Explorer search bar</li>
+  <ol><code>HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\WordWheelQuery</code></ol>
+</ul>
+
+<ul>
+  <li>History of paths typed into the File Explorer address bar</li>
+  <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths</code></ol>
 </ul>
 
 <ul>
   <li>UserAssist (execution for .lnk files or PE files that have a GUI component):</li>
-  <ol>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist</ol>
+  <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist</code></ol>
+</ul>
+
+<ul>
+  <li>Remote Desktop Connections:</li>
+  <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Servers</code></ol>
 </ul>
 
 <h2 id="HKLM_SAM">SAM (HKEY_LOCAL_MACHINE\SAM)</h2>
@@ -38,31 +48,31 @@
 
 <ul>
 <li>Possible Persistence:</li>
-  <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run</ol>
-  <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce</ol>
-  <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServicesOnce</ol>
-  <ol>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServices</ol>
+  <ol><code>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run</code></ol>
+  <ol><code>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce</code></ol>
+  <ol><code>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServicesOnce</code></ol>
+  <ol><code>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServices</code></ol>
 </ul>
 
 <h2 id="HKLM_SYSTEM">SYSTEM (HKEY_LOCAL_MACHINE\SYSTEM)</h2>
 
 <ul>
 <li>ComputerName:</li>
-<ol>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\ComputerName\ComputerName</ol>
+<ol><code>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\ComputerName\ComputerName</code></ol>
 </ul>
 
 <ul>
 <li>Network Interfaces:</li>
-<ol>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces</ol>
-<ol>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters\Interfaces</ol>
+<ol><code>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces</code></ol>
+<ol><code>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters\Interfaces</code></ol>
 </ul>
 
 <ul>
 <li>ShimCache:</li>
-<ol>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\AppCompatCache</ol>
+<ol><code>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\AppCompatCache</code></ol>
 </ul>
 
 <ul>
 <li>Timezone:</li>
-<ol>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation\TimeZoneKeyName</ol>
+<ol><code>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation\TimeZoneKeyName</code></ol>
 </ul>
