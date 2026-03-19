@@ -42,6 +42,11 @@
   <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Servers</code></ol>
 </ul>
 
+<ul>
+  <li>Recently accessed files/folders:</li>
+  <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs</code></ol>
+</ul>
+
 <h2 id="HKLM_SAM">SAM (HKEY_LOCAL_MACHINE\SAM)</h2>
 
 <h2 id="HKLM_SOFTWARE">SOFTWARE (HKEY_LOCAL_MACHINE\SOFTWARE)</h2>
