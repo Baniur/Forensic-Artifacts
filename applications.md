@@ -1,6 +1,7 @@
 <h1 id="Applications">Applications</h1>
 
 <ul>
+<li><a href="#advanced-port-ip-scanner">Advanced Port/IP Scanner</a></li>
 <li><a href="#anydesk">AnyDesk</a></li>
 <li>Google Chrome</li>
 <li><a href="#microsoft-edge-chromium">Microsoft Edge (Chromium)</a></li>
@@ -14,6 +15,10 @@
 <li><a href="#microsoft-windows-defender">Microsoft (Windows) Defender</a></li>
 <li><a href="#microsoft-windows-11-notepad">Microsoft Windows 11 Notepad</a></li>
 </ul>
+
+___
+
+<h2 id="#advanced-port-ip-scanner">Advanced Port/IP Scanner</h2>
 
 <h2 id="anydesk">AnyDesk</h2>
 
@@ -37,14 +42,14 @@
 <h2 id="remote-desktop">Remote Desktop</h2>
 
 <ul>
-<li><code>%USERPROFILE%\AppData\Local\Microsoft\Terminal Server Client\Cache\bcache*.bmc</code></li>
-<li><code>%USERPROFILE%\AppData\Local\Microsoft\Terminal Server Client\Cache\cache????.bin</code></li>
+<li><code>%LOCALAPPDATA%\Microsoft\Terminal Server Client\Cache\bcache*.bmc</code></li>
+<li><code>%LOCALAPPDATA%\Microsoft\Terminal Server Client\Cache\cache????.bin</code></li>
 </ul>
 
 <h2 id="stickynotes">Sticky Notes</h2>
 
 <ul>
-<li><code>%USERPROFILE%\AppData\Local\Packages\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe\</code></li>
+<li><code>%LOCALAPPDATA%\Packages\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe\</code></li>
 </ul>
 
 <h2 id="sublime-text">Sublime Text</h2>
@@ -66,7 +71,7 @@
 <h2 id="microsoft-windows-10-11-notifications">Microsoft Windows 10/11 Notifications</h2>
 
 <ul>
-<li><code>%USERPROFILE%\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db</code></li>
+<li><code>%LOCALAPPDATA%\Microsoft\Windows\Notifications\wpndatabase.db</code></li>
 </ul>
 
 <h2 id="microsoft-windows-defender">Microsoft (Windows) Defender</h2>
