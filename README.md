@@ -2,7 +2,11 @@
 
 - [Activities](https://github.com/Baniur/Forensic-Artifacts/blob/main/activities.md)
 - [Applications](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md)
-- [Registry](https://github.com/Baniur/Forensic-Artifacts/blob/main/registry.md)
+- Registry
+  - [HKCU | HKEY_CURRENT_USER](https://github.com/Baniur/Forensic-Artifacts/blob/main/registry-hkcu.md) (ntuser.dat)
+  - [SAM | HKEY_LOCAL_MACHINE/SAM](https://github.com/Baniur/Forensic-Artifacts/blob/main/registry-sam.md)
+  - [SOFTWARE | HKEY_LOCAL_MACHINE/SOFTWARE](https://github.com/Baniur/Forensic-Artifacts/blob/main/registry-software.md)
+  - [SYSTEM | HKEY_LOCAL_MACHINE/SYSTEM](https://github.com/Baniur/Forensic-Artifacts/blob/main/registry-system.md)
 
 # 📰 Articles
 
