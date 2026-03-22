@@ -5,6 +5,7 @@
 <li><a href="#anydesk">AnyDesk</a></li>
 <li>Google Chrome</li>
 <li><a href="#microsoft-edge-chromium">Microsoft Edge (Chromium)</a></li>
+<li><a href="#mozilla-filezilla">Mozilla Filezilla</a></li>
 <li>Mozilla Firefox</li>
 <li><a href="#notepad-plus-plus">Notepad++</a></li>
 <li><a href="#remote-desktop">Remote Desktop</a></li>
@@ -31,6 +32,9 @@ ___
 <ul>
 <li><code>%USERPROFILE%\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup<strong><i>YYYYMMDD</i></strong>_dbh<strong><i>hhmmss</i></strong>\DatastoreBackup\spartan.edb</code></li>
 </ul>
+
+<h2 id="#mozilla-filezilla">Mozilla Filezilla</h2>
+
 
 <h2 id="notepad-plus-plus">Notepad++</h2>
 
