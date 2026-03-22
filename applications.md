@@ -12,86 +12,75 @@
 <li><a href="#teamviewer">TeamViewer</a></li>
 <li><a href="#microsoft-windows-10-11-notifications">Microsoft Windows 10/11 Notifications</a></li>
 <li><a href="#microsoft-windows-defender">Microsoft (Windows) Defender</a></li>
-<li>Microsoft Windows 11 Notepad</li>
+<li><a href="#microsoft-windows-11-notepad">Microsoft Windows 11 Notepad</a></li>
 </ul>
 
 <h2 id="anydesk">AnyDesk</h2>
 
 <ul>
-<li>%USERPROFILE%\AppData\Roaming\AnyDesk\ad.trace</li>
+<li><code>%USERPROFILE%\AppData\Roaming\AnyDesk\ad.trace</code></li>
 </ul>
-
-How to open: <strong>text editor</strong>
 
 <h2 id="microsoft-edge-chromium">Microsoft Edge (Chromium)</h2>
 
 <ul>
-<li>%USERPROFILE%\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup<strong><i>YYYYMMDD</i></strong>_dbh<strong><i>hhmmss</i></strong>\DatastoreBackup\spartan.edb</li>
+<li><code>%USERPROFILE%\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup<strong><i>YYYYMMDD</i></strong>_dbh<strong><i>hhmmss</i></strong>\DatastoreBackup\spartan.edb</code></li>
 </ul>
-
-How to open: <strong>ESEDatabaseView (Nirsoft)</strong>
 
 <h2 id="notepad-plus-plus">Notepad++</h2>
 
 <ul>
-<li>%USERPROFILE%\AppData\Roaming\Notepad++\session.xml</li>
-<li>%USERPROFILE%\AppData\Roaming\Notepad++\backup</li>
+<li><code>%USERPROFILE%\AppData\Roaming\Notepad++\session.xml</code></li>
+<li><code>%USERPROFILE%\AppData\Roaming\Notepad++\backup</code></li>
 </ul>
-
-How to open: <strong>text editor</strong>
 
 <h2 id="remote-desktop">Remote Desktop</h2>
 
 <ul>
-<li>%USERPROFILE%\AppData\Local\Microsoft\Terminal Server Client\Cache\bcache*.bmc</li>
-<li>%USERPROFILE%\AppData\Local\Microsoft\Terminal Server Client\Cache\cache????.bin</li>
+<li><code>%USERPROFILE%\AppData\Local\Microsoft\Terminal Server Client\Cache\bcache*.bmc</code></li>
+<li><code>%USERPROFILE%\AppData\Local\Microsoft\Terminal Server Client\Cache\cache????.bin</code></li>
 </ul>
-
-How to open: <strong>bmc-tools</strong> and <strong>RdpCacheStitcher</strong>
 
 <h2 id="stickynotes">Sticky Notes</h2>
 
 <ul>
-<li>%USERPROFILE%\AppData\Local\Packages\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe\</li>
+<li><code>%USERPROFILE%\AppData\Local\Packages\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe\</code></li>
 </ul>
 
 <h2 id="sublime-text">Sublime Text</h2>
 
 <ul>
-<li>%USERPROFILE%\AppData\Roaming\Sublime Text 3\Local\Session.sublime_session</li>
+<li><code>%USERPROFILE%\AppData\Roaming\Sublime Text 3\Local\Session.sublime_session</code></li>
 </ul>
-
-How to open: <strong>text editor</strong>
 
 <h2 id="teamviewer">TeamViewer</h2>
 
 <ul>
-<li>%USERPROFILE%\AppData\Roaming\TeamViewer\Connections.txt</li>
-<li>%systemdrive%\Program Files\TeamViewer\Connections_incoming.txt</li>
-<li>%systemdrive%\Program Files\TeamViewer\TeamViewerXX_Logfile.log (XX - version)</li>
-<li>%systemdrive%\Program Files (x86)\TeamViewer\Connections_incoming.txt</li>
-<li>%systemdrive%\Program Files (x86)\TeamViewer\TeamViewerXX_Logfile.log (XX - version)</li>
+<li><code>%USERPROFILE%\AppData\Roaming\TeamViewer\Connections.txt</code></li>
+<li><code>%systemdrive%\Program Files\TeamViewer\Connections_incoming.txt</code></li>
+<li><code>%systemdrive%\Program Files\TeamViewer\TeamViewerXX_Logfile.log (XX - version)</code></li>
+<li><code>%systemdrive%\Program Files (x86)\TeamViewer\Connections_incoming.txt</code></li>
+<li><code>%systemdrive%\Program Files (x86)\TeamViewer\TeamViewerXX_Logfile.log (XX - version)</code></li>
 </ul>
-
-How to open: <strong>text editor</strong>
 
 <h2 id="microsoft-windows-10-11-notifications">Microsoft Windows 10/11 Notifications</h2>
 
 <ul>
-<li>%USERPROFILE%\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db</li>
+<li><code>%USERPROFILE%\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db</code></li>
 </ul>
-
-How to open: <strong>DB Browser for SQLite</strong>, <strong>SQLiteStudio</strong>
 
 <h2 id="microsoft-windows-defender">Microsoft (Windows) Defender</h2>
 
 If the attacker was able to clear *Microsoft Windows Defender* <strong>event logs</strong> then files listed below could still help you:
 
 <ul>
-<li>%systemdrive%\ProgramData\Microsoft\Windows Defender\Support\MPDetection-*.log</li>
-<li>%systemdrive%\ProgramData\Microsoft\Windows Defender\Support\MPDeviceControl-*.log</li>
-<li>%systemdrive%\ProgramData\Microsoft\Windows Defender\Support\MLog-*.log</li>
-<li>%systemdrive%\ProgramData\Microsoft\Windows Defender\Support\MpScanSkip-*.log</li>
+<li><code>%systemdrive%\ProgramData\Microsoft\Windows Defender\Support\MPDetection-*.log</code></li>
+<li><code>%systemdrive%\ProgramData\Microsoft\Windows Defender\Support\MPDeviceControl-*.log</code></li>
+<li><code>%systemdrive%\ProgramData\Microsoft\Windows Defender\Support\MLog-*.log</code></li>
+<li><code>%systemdrive%\ProgramData\Microsoft\Windows Defender\Support\MpScanSkip-*.log</code></li>
 </ul>
 
-How to open: <strong>text editor</strong>
+<h2 id="microsoft-windows-11-notepad">Microsoft Windows 11 Notepad</h2>
+<ul>
+<li><code>%LOCALAPPDATA%\Packages\Microsoft.WindowsNotepad_8wekyb3d8bbwe\LocalState\TabState\</code></li>
+</ul>
