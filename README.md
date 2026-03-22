@@ -1,7 +1,19 @@
 # 🕵️ Forensic artifacts
 
 - [Activities](https://github.com/Baniur/Forensic-Artifacts/blob/main/activities.md)
+
 - [Applications](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md)
+  - [AnyDesk](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#anydesk)
+  - [Microsoft Edge (Chromium)](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#microsoft-edge-chromium)
+  - [Notepad++](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#notepad-plus-plus)
+  - [Remote Desktop](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#remote-desktop)
+  - [Sticky Notes](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#stickynotes)
+  - [Sublime Text](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#sublime-text)
+  - [TeamViewer](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#teamviewer)
+  - [Microsoft Windows 10/11 Notifications](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#microsoft-windows-10-11-notifications)
+  - [Microsoft (Windows) Defender](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#microsoft-windows-defender)
+  - [Microsoft Windows 11 Notepad](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#microsoft-windows-11-notepad)
+
 - Registry
   - [HKCU | HKEY_CURRENT_USER](https://github.com/Baniur/Forensic-Artifacts/blob/main/registry-hkcu.md) (ntuser.dat)
   - [SAM | HKEY_LOCAL_MACHINE/SAM](https://github.com/Baniur/Forensic-Artifacts/blob/main/registry-sam.md)
