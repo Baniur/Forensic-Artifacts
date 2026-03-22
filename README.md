@@ -3,8 +3,10 @@
 - [Activities](https://github.com/Baniur/Forensic-Artifacts/blob/main/activities.md)
 
 - [Applications](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md)
+  - [Advanced Port/IP Scanner](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#advanced-port-ip-scanner)
   - [AnyDesk](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#anydesk)
   - [Microsoft Edge (Chromium)](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#microsoft-edge-chromium)
+  - [Mozilla Filezilla](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#mozilla-filezilla)
   - [Notepad++](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#notepad-plus-plus)
   - [Remote Desktop](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#remote-desktop)
   - [Sticky Notes](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#stickynotes)
