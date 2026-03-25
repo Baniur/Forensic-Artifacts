@@ -21,10 +21,17 @@ ___
 
 <h2 id="#advanced-port-ip-scanner">Advanced Port/IP Scanner</h2>
 
+<ul>
+<li><code>HKCU\SOFTWARE\Famatech\advanced_port_scanner</code></li>
+  <ol><code>HKCU\SOFTWARE\Famatech\advanced_port_scanner\State</code></ol>
+<li><code>HKCU\SOFTWARE\Famatech\advanced_ip_scanner</code></li>
+  <ol><code>HKCU\SOFTWARE\Famatech\advanced_port_scanner\\State</code></ol>
+</ul>
+
 <h2 id="anydesk">AnyDesk</h2>
 
 <ul>
-<li><code>%USERPROFILE%\AppData\Roaming\AnyDesk\ad.trace</code></li>
+<li><code>%APPDATA%\AnyDesk\ad.trace</code></li>
 </ul>
 
 <h2 id="microsoft-edge-chromium">Microsoft Edge (Chromium)</h2>
@@ -33,14 +40,18 @@ ___
 <li><code>%USERPROFILE%\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup<strong><i>YYYYMMDD</i></strong>_dbh<strong><i>hhmmss</i></strong>\DatastoreBackup\spartan.edb</code></li>
 </ul>
 
-<h2 id="#mozilla-filezilla">Mozilla Filezilla</h2>
+<h2 id="#mozilla-filezilla">Mozilla Filezilla (Client)</h2>
 
+<ul>
+<li><code>%APPDATA%/FileZilla/recentservers.xml</code></li>
+<li><code>%APPDATA%/FileZilla/sitemanager.xml</code></li>
+</ul>
 
 <h2 id="notepad-plus-plus">Notepad++</h2>
 
 <ul>
-<li><code>%USERPROFILE%\AppData\Roaming\Notepad++\session.xml</code></li>
-<li><code>%USERPROFILE%\AppData\Roaming\Notepad++\backup</code></li>
+<li><code>%APPDATA%\Notepad++\session.xml</code></li>
+<li><code>%APPDATA%\Notepad++\backup</code></li>
 </ul>
 
 <h2 id="remote-desktop">Remote Desktop</h2>
@@ -59,13 +70,13 @@ ___
 <h2 id="sublime-text">Sublime Text</h2>
 
 <ul>
-<li><code>%USERPROFILE%\AppData\Roaming\Sublime Text 3\Local\Session.sublime_session</code></li>
+<li><code>%APPDATA%\Sublime Text 3\Local\Session.sublime_session</code></li>
 </ul>
 
 <h2 id="teamviewer">TeamViewer</h2>
 
 <ul>
-<li><code>%USERPROFILE%\AppData\Roaming\TeamViewer\Connections.txt</code></li>
+<li><code>%APPDATA%\TeamViewer\Connections.txt</code></li>
 <li><code>%systemdrive%\Program Files\TeamViewer\Connections_incoming.txt</code></li>
 <li><code>%systemdrive%\Program Files\TeamViewer\TeamViewerXX_Logfile.log (XX - version)</code></li>
 <li><code>%systemdrive%\Program Files (x86)\TeamViewer\Connections_incoming.txt</code></li>
