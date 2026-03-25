@@ -25,7 +25,7 @@ ___
 <li><code>HKCU\SOFTWARE\Famatech\advanced_port_scanner</code></li>
   <ol><code>HKCU\SOFTWARE\Famatech\advanced_port_scanner\State</code></ol>
 <li><code>HKCU\SOFTWARE\Famatech\advanced_ip_scanner</code></li>
-  <ol><code>HKCU\SOFTWARE\Famatech\advanced_port_scanner\\State</code></ol>
+  <ol><code>HKCU\SOFTWARE\Famatech\advanced_port_scanner\State</code></ol>
 </ul>
 
 <h2 id="anydesk">AnyDesk</h2>
