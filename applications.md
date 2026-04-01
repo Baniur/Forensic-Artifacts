@@ -7,6 +7,7 @@
 <li><a href="#microsoft-edge-chromium">Microsoft Edge (Chromium)</a></li>
 <li><a href="#mozilla-filezilla">Mozilla Filezilla</a></li>
 <li>Mozilla Firefox</li>
+<li><a href="#netexec">NetExec</a></li>
 <li><a href="#notepad-plus-plus">Notepad++</a></li>
 <li><a href="#remote-desktop">Remote Desktop</a></li>
 <li><a href="#stickynotes">Sticky Notes</a></li>
@@ -45,6 +46,22 @@ ___
 <ul>
 <li><code>%APPDATA%/FileZilla/recentservers.xml</code></li>
 <li><code>%APPDATA%/FileZilla/sitemanager.xml</code></li>
+</ul>
+
+<h2 id="netexec">NetExec</h2>
+
+<ul>
+<li><code>%USERPROFILE%/.nxc/workspaces</code></li>
+<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/ftp.db</code></li>
+<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/ldap.db</code></li>
+<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/mssql.db</code></li>
+<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/nfs.db</code></li>
+<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/rdp.db</code></li>
+<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/smb.db</code></li>
+<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/ssh.db</code></li>
+<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/vnc.db</code></li>
+<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/winrm.db</code></li>
+<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/wmi.db</code></li>
 </ul>
 
 <h2 id="notepad-plus-plus">Notepad++</h2>
