@@ -61,19 +61,16 @@ ___
 <li><code>%USERPROFILE%/.nxc/protocols</code></li>
 <li><code>%USERPROFILE%/.nxc/screenshots</code></li>
 <li><code>%USERPROFILE%/.nxc/workspaces</code></li>
-</ul>
-
-<ul>
-<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/ftp.db</code></li>
-<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/ldap.db</code></li>
-<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/mssql.db</code></li>
-<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/nfs.db</code></li>
-<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/rdp.db</code></li>
-<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/smb.db</code></li>
-<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/ssh.db</code></li>
-<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/vnc.db</code></li>
-<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/winrm.db</code></li>
-<li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/wmi.db</code></li>
+<ol><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/ftp.db</code></ol>
+<ol><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/ldap.db</code></ol>
+<ol><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/mssql.db</code></ol>
+<ol><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/nfs.db</code></ol>
+<ol><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/rdp.db</code></ol>
+<ol><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/smb.db</code></ol>
+<ol><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/ssh.db</code></ol>
+<ol><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/vnc.db</code></ol>
+<ol><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/winrm.db</code></ol>
+<ol><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/wmi.db</code></ol>
 </ul>
 
 <h2 id="notepad-plus-plus">Notepad++</h2>
