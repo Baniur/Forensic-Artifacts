@@ -7,6 +7,7 @@
   - [AnyDesk](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#anydesk)
   - [Microsoft Edge (Chromium)](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#microsoft-edge-chromium)
   - [Mozilla Filezilla](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#mozilla-filezilla)
+  - [NetExec](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#netexec)
   - [Notepad++](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#notepad-plus-plus)
   - [Remote Desktop](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#remote-desktop)
   - [Sticky Notes](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#stickynotes)
