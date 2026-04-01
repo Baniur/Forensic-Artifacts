@@ -51,7 +51,19 @@ ___
 <h2 id="netexec">NetExec</h2>
 
 <ul>
+<li><code>%USERPROFILE%/.nxc/nxc.conf</code></li>
+</ul>
+
+<ul>
+<li><code>%USERPROFILE%/.nxc/logs</code></li>
+<li><code>%USERPROFILE%/.nxc/modules</code></li>
+<li><code>%USERPROFILE%/.nxc/obfuscated_scripts</code></li>
+<li><code>%USERPROFILE%/.nxc/protocols</code></li>
+<li><code>%USERPROFILE%/.nxc/screenshots</code></li>
 <li><code>%USERPROFILE%/.nxc/workspaces</code></li>
+</ul>
+
+<ul>
 <li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/ftp.db</code></li>
 <li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/ldap.db</code></li>
 <li><code>%USERPROFILE%/.nxc/workspaces/WORKSPACE_NAME/mssql.db</code></li>
