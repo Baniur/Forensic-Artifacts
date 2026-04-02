@@ -6,7 +6,7 @@
 <h2 id="activitiescache">ActivitiesCache.db</h2>
 
 <ul>
-<li>%USERPROFILE%\AppData\Local\ConnectedDevicesPlatform\<strong>DIRECTORY</strong>\ActivitiesCache.db</li>
+<li><code>%USERPROFILE%\AppData\Local\ConnectedDevicesPlatform\<strong>DIRECTORY</strong>\ActivitiesCache.db</code></li>
 </ul>
 
 <strong>DIRECTORY</strong>:
@@ -18,7 +18,9 @@
 
 <h2 id="pca">Program Compatibility Assistant (PCA)</h2>
 
-- %SystemRoot%\appcompat\pca\:
-  - PcaAppLaunchDic.txt
-  - PcaGeneralDb0.txt
-  - PcaGeneralDb1.txt
+<ul>
+<li><code>%SystemRoot%\appcompat\pca\</code></li>
+  <ol><code>PcaAppLaunchDic.txt</code></ol>
+  <ol><code>PcaGeneralDb0.txt</code></ol>
+  <ol><code>PcaGeneralDb1.txt</code></ol>
+</ul>
