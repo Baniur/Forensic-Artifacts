@@ -17,6 +17,8 @@
   - [Microsoft (Windows) Defender](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#microsoft-windows-defender)
   - [Microsoft Windows 11 Notepad](https://github.com/Baniur/Forensic-Artifacts/blob/main/applications.md#microsoft-windows-11-notepad)
 
+- [Files](https://github.com/Baniur/Forensic-Artifacts/blob/main/files.md)
+
 - Registry
   - [HKCU | HKEY_CURRENT_USER](https://github.com/Baniur/Forensic-Artifacts/blob/main/registry-hkcu.md) (ntuser.dat)
   - [SAM | HKEY_LOCAL_MACHINE/SAM](https://github.com/Baniur/Forensic-Artifacts/blob/main/registry-sam.md)
