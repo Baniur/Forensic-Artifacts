@@ -1,7 +1,7 @@
 <h1 id="files">Files</h1>
 
 - [Master File Table (MFT)](#mft)
-- [Update Sequence Number Journal (USN) Journal](#usnjrnl)
+- [Update Sequence Number (USN) Journal](#usnjrnl)
 - [Windows-gather](#windows-gather)
 
 <h2 id="mft">Master File Table (MFT)</h2>
@@ -10,7 +10,7 @@
 <li><code>%systemdrive%\$MFT</code></li>
 </ul>
 
-<h2 id="usnjrnl">Update Sequence Number Journal (USN) Journal</h2>
+<h2 id="usnjrnl">Update Sequence Number (USN) Journal</h2>
 
 <ul>
 <li><code>%systemdrive%\$Extend\$UsnJrnl</code></li>
