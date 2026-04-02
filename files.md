@@ -1,4 +1,4 @@
-<h1 id="Activities">Files</h1>
+<h1 id="files">Files</h1>
 
 - [Master File Table (MFT)](#mft)
 - [Update Sequence Number Journal (USN) Journal](#usnjrnl)
