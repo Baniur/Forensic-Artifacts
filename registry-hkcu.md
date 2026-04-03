@@ -1,6 +1,11 @@
 <h2 id="HKCU">HKEY_CURRENT_USER (HKCU) - NTUSER.DAT</h2>
 
 <ul>
+<li>AppSwitched (tracks every time a user switches focus between applications, specifically through Taskbar clicks):</li>
+<ol><code>HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\AppSwitch</code></ol>
+</ul>
+
+<ul>
 <li>Possible Persistence:</li>
   <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run</code></ol>
   <ol><code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce</code></ol>
