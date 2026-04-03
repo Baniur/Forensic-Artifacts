@@ -2,7 +2,7 @@
 
 <ul>
 <li>AppSwitched (tracks every time a user switches focus between applications, specifically through Taskbar clicks):</li>
-<ol><code>HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\AppSwitch</code></ol>
+<ol><code>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AppSwitch</code></ol>
 </ul>
 
 <ul>
