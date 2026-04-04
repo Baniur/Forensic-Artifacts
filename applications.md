@@ -85,7 +85,7 @@ ___
 
 <ul>
 <li><code>%SYSTEMROOT%\PSEXESVC.exe</code> (default name)</li>
-<li><code>%SYSTEMROOT%\PSEXEC-<strong>[Source Hostname]</strong>strong>-<strong>[8 Unique Characters]</strong>strong>.key</code></li>
+<li><code>%SYSTEMROOT%\PSEXEC-<strong>[Source Hostname]</strong>-<strong>[8 Unique Characters]</strong>.key</code></li>
 </ul>
 
 <ul>
