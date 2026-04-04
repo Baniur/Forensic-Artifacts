@@ -9,6 +9,7 @@
 <li>Mozilla Firefox</li>
 <li><a href="#netexec">NetExec</a></li>
 <li><a href="#notepad-plus-plus">Notepad++</a></li>
+<li><a href="#psexec">PsExec</a></li>
 <li><a href="#remote-desktop">Remote Desktop</a></li>
 <li><a href="#stickynotes">Sticky Notes</a></li>
 <li><a href="#sublime-text">Sublime Text</a></li>
@@ -78,6 +79,18 @@ ___
 <ul>
 <li><code>%APPDATA%\Notepad++\session.xml</code></li>
 <li><code>%APPDATA%\Notepad++\backup</code></li>
+</ul>
+
+<h2 id="psexec">PsExec</h2>
+
+<ul>
+<li><code>%SYSTEMROOT%\PSEXESVC.exe</code> (default name)</li>
+<li><code>%SYSTEMROOT%\PSEXEC-<strong>[Source Hostname]</strong>strong>-<strong>[8 Unique Characters]</strong>strong>.key</code></li>
+</ul>
+
+<ul>
+<li><code>HKEY_USERS\<strong>[USER_SID]</strong>\Software\Sysinternals\PsExec</code></li>
+  <ol><code>EulaAccepted = 0x00000001 (1)</code></ol>
 </ul>
 
 <h2 id="remote-desktop">Remote Desktop</h2>
